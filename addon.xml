@@ -13,9 +13,10 @@
         <language>de</language>
         <description lang="de">Welt der Wunder Livestream und Mediathek</description>
         <description lang="en">Welt der Wunder livestream and media library</description>
-        <website>http://www.weltderwunder.tv</website>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <source>https://github.com/AddonScriptorDE/plugin.video.welt_der_wunder</source>
         <forum>http://forum.xbmc.org/showthread.php?tid=132563</forum>
         <email>AddonScriptorDE at yahoo dot de</email>
+        <website>http://www.weltderwunder.tv</website>
     </extension>
 </addon>
